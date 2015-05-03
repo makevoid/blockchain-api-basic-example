@@ -7,3 +7,11 @@ Example usage of 'Blockchain API Basic' npm module:
 Look at this repo <index.html> and <bchain-api-basic-example.js>
 
 or at this gh-pages url: <http://makevoid.github.io/blockchain-api-basic/>
+
+---
+
+### Dev
+
+Recompile bundle howto:
+
+    browserify bchain-api-basic-example.js -o bundle.js
